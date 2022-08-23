@@ -56,7 +56,7 @@ text-align: center;
     background-color: white;
     margin-left: 10px;
     border-radius: 5px;
-    margin-right: 20px;
+    margin-right: 80px;
 }
 #card-1:hover,#card-2:hover{
     box-shadow: 0 8px 16px rgba(0,0,0,2);
